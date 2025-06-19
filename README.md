@@ -1,6 +1,6 @@
 <!-- BADASS CODING RABBIT -->
 <p align="center">
-  <img src="https://media.giphy.com/media/B4DT2kK5FdRz2YrIwx/giphy.gif" width="300" alt="Rabbit coding with coffee and cigarette" />
+  <img src=https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif />
 </p>
 
 <h1 align="center">Hey 👋, I'm Manglam Pandey (aka <strong>cosmoxpi</strong>)</h1>
@@ -48,24 +48,7 @@
 
 ---
 
-### 🚀 Featured Project
-
-#### [`🔐 decentralized-id-verification`](https://github.com/cosmoxpi/decentralized-id-verification)
-
-A secure, decentralized identity verification system built using:
-- ✅ **Solidity** smart contracts
-- ✅ **React + Web3.js** frontend
-- ✅ **MongoDB** for off-chain data
-- ✅ Integrated wallet auth (MetaMask)
-  
-🔒 Ideal for KYC, voting, and proof-of-identity use cases in a trustless environment.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoxpi&repo=decentralized-id-verification&theme=radical" />
-</p>
-
----
-
+ 
 ### 📊 GitHub Activity
 
 <p align="center">
